@@ -1,6 +1,6 @@
 {
 	"name": "chat-sample",
-	"publisher": "vscode-samples",
+	"publisher": "ms-sample",
 	"displayName": "Copilot Chat Sample",
 	"description": "Sample chat extension, a trusty cat tutor that will can teach you computer science topics.",
 	"repository": {
